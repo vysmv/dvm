@@ -13,3 +13,7 @@ func NewFuncV0() {
 func NewFuncV1() {
     fmt.Println("Hello from utils!")
 }
+
+func NewFuncForDev() {
+    fmt.Println("Hello from utils!")
+}
