@@ -21,3 +21,7 @@ func NewFuncForDev() {
 func NewFuncV2_2_33() {
     fmt.Println("Hello from utils!")
 }
+
+func NewFuncV2_5_66() {
+    fmt.Println("Hello from utils!")
+}
